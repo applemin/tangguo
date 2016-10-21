@@ -57,25 +57,5 @@ lyadmin是一套轻量级通用后台，采用Bootstrap3制作，自带权限管
 ├─Framework 框架目录
 └─Uploads 上传根目录
 ```
-
-##问题反馈
-
-在使用中有任何问题，欢迎反馈给我们，可以用以下联系方式跟我们交流
-
-* 邮件: admin@lingyun.net
-* QQ群: 252262604
-
-##感激
-
-感谢以下的项目,排名不分先后
-
-* [Bootstrap](http://getbootstrap.com)
-* [jQuery](http://jquery.com)
-* [ThinkPHP](http://thinkphp.cn/)
-
-##关于我们
-
-南京科斯克网络科技有限公司
-=======
 # tangguo
 >>>>>>> 94dcb0e4a2f093f37e642e12662d5d0a6f10da07
